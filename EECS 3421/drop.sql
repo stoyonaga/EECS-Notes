@@ -1,0 +1,13 @@
+drop table Admin;
+drop table CanTeach;
+drop table On_Team1;
+drop table On_Team2;
+drop table Wait_For;
+drop table Take;
+drop table Req_Of;
+drop table Professors;
+drop table Team;
+drop table GTAs;
+drop table Students;
+drop table Section;
+drop table Class;
