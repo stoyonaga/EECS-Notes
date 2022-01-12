@@ -1,35 +1,25 @@
-from matplotlib import pyplot as plt
+pt = input("Enter Plaintext Mapping (Initial): \n")
+ct = input("Enter Ciphertext Mapping (Post): \n")
+k = ord(ct) - ord(pt)
 
-# Necessary Variables
+# Generate Map 1 Entries via Loop
+charMapping = {}
+numberMapping = {}
+counter = 0
+
+for char in range(97, 123):
+    charMapping[chr(char)] = counter
+    numberMapping[counter] = chr(char)
+    counter += 1
+# Begin Decryption of Ciphertext
 inputReader = open("input.txt", "r")
-charFreq = {}
-
-# Populate dictionary charFreq with empty entries [a,z]
-for i in range(97, 123):
-    charFreq[chr(i)] = 0
-
-# Iterate through input and record number of characters read so far...
+strDecryption = ""
+newChar = None
 for line in inputReader.readlines():
-    for j in line:
-        if j.lower() in charFreq.keys():
-            charFreq[j.lower()] += 1
-
-# Information Prompt
-print("EECS 4161 == Assignment #1 Helper Program ==")
-print("The frequency of the letters of the alphabet in English (By Most Frequent):")
-print("\t E @ 11.2%")
-print("\t A @ 8.5%")
-print("\t R @ 7.6%")
-print("\t I @ 7.5%")
-# Graphing the Character Frequency
-plt.style.use("seaborn")
-plt.bar(charFreq.keys(), charFreq.values(), label="Ciphertext")
-plt.xlabel("Characters")
-plt.ylabel("Frequency")
-plt.title("Ciphertext Character Frequency Visualizer")
-plt.legend()
-plt.show()
-inputReader.close()
-
-
+    for char in line:
+        if char.lower() in charMapping.keys():
+            print(numberMapping[(charMapping[char.lower()] - k) % 26], end="")
+        else:
+            print(char, end="")
+print()
 
