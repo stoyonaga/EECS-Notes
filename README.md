@@ -22,4 +22,5 @@ Additionally, you can find some of my presentation slides here!
 1. If you would like to contribute content and or updates to my scripts, please contact me through direct message! 
 
 # Recent Updates
-    - [01/07/22]: Refactored EECS3461 Helper Script for readability and improved completeness.
+    - [01/12/22]: Added EECS 4161 tools to help complete the Caesar Cipher Decryption Assignment #1 (Frequency Analysis / Key Cracker)
+    - [01/07/22]: Refactored EECS 3461 Helper Script for readability and improved completeness.
