@@ -1,12 +1,13 @@
 # General Introduction
 Hello, and welcome to my EECS-Notes Repository! 
 Here, you will find some of my notes and scripts (code) that pertain to the list of courses.
-
-1. EECS 3101
+1  EECS 4161
+    - Assignment 1 Caesar Cipher Python (Helper) Script
+2. EECS 3101
     - Lecture Notes + Recitation Solutions
-2. EECS 3421
+3. EECS 3421
     - Lecture Notes + Recitation Solutions 
-3. EECS 3461
+4. EECS 3461
     - Mod 1 Python (Helper) Script, Peer Feedback for Mod 5 
 
 Additionally, you can find some of my presentation slides here!
