@@ -13,7 +13,6 @@ for char in range(97, 123):
     counter += 1
 # Begin Decryption of Ciphertext
 inputReader = open("input.txt", "r")
-strDecryption = ""
 newChar = None
 for line in inputReader.readlines():
     for char in line:
