@@ -8,6 +8,8 @@ Here, you will find some of my notes and scripts (code) that pertain to the list
     - Lecture Notes + Recitation Solutions 
 3. EECS 3461
     - Mod 1 Python (Helper) Script, Peer Feedback for Mod 5 
+4. EECS 4161
+    - Assignment 1 (Caesar Cipher Helper Script, Frequency Analysis Tool(s)) 
 
 Additionally, you can find some of my presentation slides here!
 
