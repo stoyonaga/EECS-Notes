@@ -1,13 +1,14 @@
 # General Introduction
-Hello, and welcome to my EECS-Notes Repository! 
-Here, you will find some of my notes and scripts (code) that pertain to the list of courses.
+Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my notes and scripts (code) that pertain to the list of courses. 
 
 1. EECS 3101
     - Lecture Notes + Recitation Solutions
 2. EECS 3421
     - Lecture Notes + Recitation Solutions 
+    - PostgreSQL Implementation for the Recitation Assignment
 3. EECS 3461
-    - Mod 1 Python (Helper) Script, Peer Feedback for Mod 5 
+    - Mod 1 Python (Helper) Script
+    - Individual Peer Feedback (From Mod 5 Team Assessment) 
 4. EECS 4161
     - Assignment 1 (Caesar Cipher Helper Script, Frequency Analysis Tool(s)) 
     - Assignment 2 (Vigenere Cipher Helper Script, Encryption, Decryption Tool(s))
