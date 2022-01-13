@@ -10,6 +10,7 @@ Here, you will find some of my notes and scripts (code) that pertain to the list
     - Mod 1 Python (Helper) Script, Peer Feedback for Mod 5 
 4. EECS 4161
     - Assignment 1 (Caesar Cipher Helper Script, Frequency Analysis Tool(s)) 
+    - Assignment 2 (Vigenere Cipher Helper Script, Encryption, Decryption Tool(s))
 
 Additionally, you can find some of my presentation slides here!
 
@@ -17,12 +18,13 @@ Additionally, you can find some of my presentation slides here!
     - Linux Workshop: October 31, 2021 (1 - 2 p.m. EST)
 
 # Requests
-1.If you would like to request access to subsequent chapters, or the full version of these notes, please create a pull request under the specific course in question.
-2. If you would like me to add content for a specific course, please contact me through direct message!
+If you would like to access the comprehensive recitation notes, please contact me via direct messaging.
+
 
 # Contributing 
-1. If you would like to contribute content and or updates to my scripts, please contact me through direct message! 
+If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [01/13/22]: Added EECS 4161 tools to help complete the Vigenere Cipher Decryption Assignment #2  
     - [01/12/22]: Added EECS 4161 tools to help complete the Caesar Cipher Decryption Assignment #1 (Frequency Analysis / Key Cracker)
     - [01/07/22]: Refactored EECS 3461 Helper Script for readability and improved completeness.
