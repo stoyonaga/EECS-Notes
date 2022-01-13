@@ -21,4 +21,5 @@ for line in inputReader.readlines():
         else:
             print(char, end="")
 print()
+inputReader.close()
 
