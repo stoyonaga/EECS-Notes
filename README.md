@@ -26,6 +26,7 @@ If you would like to access the comprehensive recitation notes, please contact m
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [01/13/22]: Added EECS 4161 tools to help complete the Transposition Cipher Decryption Assignment #3 
     - [01/13/22]: Added EECS 4161 tools to help complete the Vigenere Cipher Decryption Assignment #2  
     - [01/12/22]: Added EECS 4161 tools to help complete the Caesar Cipher Decryption Assignment #1 (Frequency Analysis / Key Cracker)
     - [01/07/22]: Refactored EECS 3461 Helper Script for readability and improved completeness.
