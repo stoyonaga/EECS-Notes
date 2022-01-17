@@ -12,6 +12,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
 4. EECS 4161
     - Assignment 1 (Caesar Cipher Helper Script, Frequency Analysis Tool(s)) 
     - Assignment 2 (Vigenere Cipher Helper Script, Encryption, Decryption Tool(s))
+    - Assignment 3 (Rectangular Transposition Helper Script, Encryption, Decryption Tool(s))
 
 Additionally, you can find some of my presentation slides here!
 
@@ -19,7 +20,7 @@ Additionally, you can find some of my presentation slides here!
     - Linux Workshop: October 31, 2021 (1 - 2 p.m. EST)
 
 # Requests
-If you would like to access the comprehensive recitation notes, please contact me via direct messaging.
+If you would like to access the comprehensive recitation notes, or request repositories for a particular course, please contact me via direct messaging.
 
 
 # Contributing 
