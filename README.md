@@ -27,6 +27,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [01/17/22]: Added EECS 4161 tools to help complete the PlayFair Cipher Decryption Assignment #4
     - [01/16/22]: Added EECS 4161 tools to help complete the Transposition Cipher Decryption Assignment #3 
     - [01/13/22]: Added EECS 4161 tools to help complete the Vigenere Cipher Decryption Assignment #2  
     - [01/12/22]: Added EECS 4161 tools to help complete the Caesar Cipher Decryption Assignment #1 (Frequency Analysis / Key Cracker)
