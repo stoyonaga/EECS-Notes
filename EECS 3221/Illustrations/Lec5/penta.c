@@ -11,7 +11,7 @@ int main(int argc, char * argv[]){
     int id2 = fork();              // Four Processes are now Running
             
     if(id1 != 0 && id2 != 0){      // Check for the First (Parent) Process
-    fork();
+        fork();
     }
     printf("Hello World!\n");
     return 0;
