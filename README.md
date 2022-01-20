@@ -10,7 +10,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Mod 1 Python (Helper) Script
     - Individual Peer Feedback (From Mod 5 Team Assessment) 
 4. EECS 3221
-    - Application of Lecture #5 contents 
+    - Application of Lecture #5 Contents 
 5. EECS 4161
     - Assignment 1 (Caesar Cipher Helper Script, Frequency Analysis Tool(s)) 
     - Assignment 2 (Vigenere Cipher Helper Script, Encryption, Decryption Tool(s))
