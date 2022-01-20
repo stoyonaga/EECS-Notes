@@ -9,7 +9,9 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
 3. EECS 3461
     - Mod 1 Python (Helper) Script
     - Individual Peer Feedback (From Mod 5 Team Assessment) 
-4. EECS 4161
+4. EECS 3221
+    - Application of Lecture #5 contents 
+5. EECS 4161
     - Assignment 1 (Caesar Cipher Helper Script, Frequency Analysis Tool(s)) 
     - Assignment 2 (Vigenere Cipher Helper Script, Encryption, Decryption Tool(s))
     - Assignment 3 (Rectangular Transposition Helper Script, Encryption, Decryption Tool(s))
@@ -29,6 +31,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [01/20/22]: Added EECS 3221 Application Solutions from Lecture #5
     - [01/19/22]: Added EECS 4161 tools to help complete the Homophonic Cipher Decryption Assignment #5
     - [01/17/22]: Added EECS 4161 tools to help complete the PlayFair Cipher Decryption Assignment #4
     - [01/16/22]: Added EECS 4161 tools to help complete the Transposition Cipher Decryption Assignment #3 
