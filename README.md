@@ -32,7 +32,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
-    - [01/23/22]: Added EECS 4161 tools to help complete the ADFGVX Cipher Assignment #6
+    - [01/23/22]: Added EECS 4161 tool to help complete the ADFGVX Cipher Assignment #6 <Tabulation Helper><Given CT, K2 Length as Hints>
     - [01/20/22]: Added EECS 3221 Application Solutions from Lecture #5
     - [01/19/22]: Added EECS 4161 tools to help complete the Homophonic Cipher Decryption Assignment #5
     - [01/17/22]: Added EECS 4161 tools to help complete the PlayFair Cipher Decryption Assignment #4
