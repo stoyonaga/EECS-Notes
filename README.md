@@ -17,6 +17,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 3 (Rectangular Transposition Helper Script, Encryption, Decryption Tool(s))
     - Assignment 4 (Playfair Square Helper Script)
     - Assignment 5 (Homophonic Tabulation Helper Script)
+    - Assignment 6 (ADFGVX Ciphertext Helper via Tabulation Script)
 
 Additionally, you can find some of my presentation slides here!
 
@@ -31,6 +32,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [01/23/22]: Added EECS 4161 tools to help complete the ADFGVX Cipher Assignment #6
     - [01/20/22]: Added EECS 3221 Application Solutions from Lecture #5
     - [01/19/22]: Added EECS 4161 tools to help complete the Homophonic Cipher Decryption Assignment #5
     - [01/17/22]: Added EECS 4161 tools to help complete the PlayFair Cipher Decryption Assignment #4
