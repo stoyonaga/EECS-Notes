@@ -20,6 +20,7 @@ def print_matrix(matrix: list) -> None:
 
 
 ciphertext = input("Enter Ciphertext: \n").replace(" ", "")
+
 k2 = input("Enter the length of the second key: \n")
 numCols = int(k2)
 numRows = len(ciphertext)//int(k2)
