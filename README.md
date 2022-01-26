@@ -18,7 +18,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 4 (Playfair Square Helper Script)
     - Assignment 5 (Homophonic Tabulation Helper Script)
     - Assignment 6 (ADFGVX Ciphertext Helper via Tabulation Script)
-    - Assignment 7 (Vernam Two-Tape Cipher Helper Scripts for Bonus Mark <Caesar Cipher Brute Force Program>)
+    - Assignment 7 (Vernam Two-Tape Cipher Helper Scripts for the Bonus Marks)
 
 Additionally, you can find some of my presentation slides here!
 
