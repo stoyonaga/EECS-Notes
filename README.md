@@ -19,7 +19,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 5 (Homophonic Tabulation Helper Script)
     - Assignment 6 (ADFGVX Ciphertext Helper via Tabulation Script)
     - Assignment 7 (Vernam Two-Tape Cipher Helper Scripts for the Bonus Marks)
-    - Assignment 8 (Added Useful References to Aid in Hill Decryption)
+    - Assignment 8 (Added Useful References to Aid in Hill Encryption / Decryption)
 
 Additionally, you can find some of my presentation slides here!
 
@@ -34,7 +34,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
-    - [01/27/22]: Added a reference sheet of tools to help solve the EECS 4161 Assignment #8 [Hill Encipherment]
+    - [01/27/22]: Added a reference sheet of tools to help solve the EECS 4161 Assignment #8 [Hill System; Keys(s)].
     - [01/26/22]: Added EECS 4161 tool to help obtain the plaintext key from the Vernam Two Tape System Assignment #7 [Optional Requirement]
     - [01/23/22]: Added EECS 4161 tool to help complete the ADFGVX Cipher Assignment #6 [Tabulation Helper]
     - [01/20/22]: Added EECS 3221 Application Solutions from Lecture #5
