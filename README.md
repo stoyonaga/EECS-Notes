@@ -21,6 +21,8 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 7 (Vernam Two-Tape Cipher Helper Scripts for the Bonus Marks)
     - Assignment 8 (Added Useful References to Aid in Hill Encryption / Decryption)
     - Assignment 9 (Added a Helper to Complete the Feistel Decryption)
+    - Assignment 10 (Added a Helper to Complete the test for Monoalphabetic Substitution)
+    - Assignment 11 (Added a Helper to Complete the Index of Coincidence and Period Approximation(s))
 
 Additionally, you can find some of my presentation slides here!
 
