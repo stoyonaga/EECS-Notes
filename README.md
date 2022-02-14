@@ -35,6 +35,8 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [02/14/22]: Added EECS 4161 helper tool for the Kasiski Attack script on Vigenere Ciphers.
+    - [02/14/22]: Added EECS 4161 helper tools to solve the EECS 4161 Assignments #10, and #11.
     - [02/03/22]: Added EECS 4161 helper tool to solve the Feistel Cipher Decryption Assignment
     - [01/27/22]: Added a reference sheet of tools to help solve the EECS 4161 Assignment #8 [Hill System; Keys(s)].
     - [01/26/22]: Added EECS 4161 tool to help obtain the plaintext key from the Vernam Two Tape System Assignment #7 [Optional Requirement]
