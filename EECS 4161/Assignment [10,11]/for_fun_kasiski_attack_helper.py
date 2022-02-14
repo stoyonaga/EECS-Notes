@@ -15,7 +15,7 @@ Critical Information:
 # Format the ciphertext into a one-line representation (trimming newlines and any spaces for n-grams
 def format_ciphertext():
     cipher_text = ""
-    file = open("input.txt", "r")
+    file = open("sample.txt", "r")
     for line in file.readlines():
         cipher_text += line.replace("\n", "")
     file.close()
