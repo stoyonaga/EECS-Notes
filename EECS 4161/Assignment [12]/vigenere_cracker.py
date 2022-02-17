@@ -41,7 +41,7 @@ def best_vig_keyword_fixed_length(ct, length):
                     for p in range(length)])
 
 
-ct_in = clean("XSTNFEEPDXNDMVIAVBVXWWECABXHSNIGBSQHTWQTCFPLTRWJRGMQYEMRCTWUXPSTAZGAUXPKMFNVYXVWELMQEASVLXDCAAGXRVDFBUHYVPNLFKIPPIVRWQDGOWAXHLCRMZHXHBOCAMELCHIZEIWHAVQMLHAOWZBRJLIVGXVQPRZBPIGIHMQX")
+ct_in = clean("Ciphertext Here!!")
 
 
 ########################################################################################################################
