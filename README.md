@@ -23,6 +23,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 9 (Added a Helper to Complete the Feistel Decryption)
     - Assignment 10 (Added a Helper to Complete the test for Monoalphabetic Substitution)
     - Assignment 11 (Added a Helper to Complete the Index of Coincidence and Period Approximation(s))
+    - Assignment 12 (Added a Helper to Complete the Vigenere Breaking Assignment (Credit to Professor Zabrocki!))
 
 Additionally, you can find some of my presentation slides here!
 
@@ -37,6 +38,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [02/17/22]: Added EECS 4161 helper tool to crack Vigenere Ciphers with a very limited ciphertext quantity. 
     - [02/14/22]: Added EECS 4161 helper tool for the Kasiski Attack script on Vigenere Ciphers.
     - [02/14/22]: Added EECS 4161 helper tools to solve the EECS 4161 Assignments #10, and #11.
     - [02/03/22]: Added EECS 4161 helper tool to solve the Feistel Cipher Decryption Assignment
