@@ -1,5 +1,5 @@
 """
-This code is used to for lack of a better word, brute-force the key for a given
+This code is used to to thus brute-force the key for a given
 vigenere ciphertext.
 
 We cannot apply the Kasiski attack, because the quantity of ciphertext is very small.
@@ -41,12 +41,14 @@ def best_vig_keyword_fixed_length(ct, length):
                     for p in range(length)])
 
 
-ct_in = "REDACTED, PUT YOUR CIPHERTEXT HERE!!"
+ct_in = "INSERT YOUR CIPHERTEXT HERE!"
 
 
 ########################################################################################################################
 
+# ===== Auxiliary Method(s) =====
 
+# Reused Code From Assignment #[10, 11]
 def get_ic(cipher_text: str) -> float:
     ic = 0
     num = 0
@@ -71,8 +73,8 @@ def period_approximation(cipher_text: str) -> float:
     den = (n * get_ic(cipher_text)) + 1 - (0.038 * n)
     return round((num / den), 3)
 
-
 print("Period Approximation (Based on Sample CT): {}".format(period_approximation(ct_in)))
+# Start Brute Forcing from Estimated Period (Bare Min) to any max that you desire
 for k in range(round(period_approximation(ct_in)), 10):
     print("Key assumption of length {} will produce the key guess of {}, thus producing the plaintext {}"
           .format(k, best_vig_keyword_fixed_length(ct_in, k), decrypt_vig(ct_in, best_vig_keyword_fixed_length(ct_in,
