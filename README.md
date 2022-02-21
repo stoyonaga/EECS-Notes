@@ -24,7 +24,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 10 (Added a Helper to Complete the test for Monoalphabetic Substitution)
     - Assignment 11 (Added a Helper to Complete the Index of Coincidence and Period Approximation(s))
     - Assignment 12 (Added a Helper to Complete the Vigenere Breaking Assignment (Credit to Professor Zabrocki!))
-    - Assignment 13 (Added a Helper to Complete the Rectangular Transposition Encrypted File Assignment 
+    - Assignment 13 (Added a Helper to Complete the Rectangular Transposition Encrypted File Assignment)
 
 Additionally, you can find some of my presentation slides here!
 
