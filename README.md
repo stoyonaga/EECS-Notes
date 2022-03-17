@@ -40,7 +40,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
-    - [03/17/22]: Added fixes to the EECS 4161 Final Presentation Slide Set. [Recording of Presentation is available upon request.]
+    - [03/17/22]: Added fixes to the EECS 4161 Final Presentation Slide Set. [Recording of Presentation is available]
     - [03/05/22]: Added EECS 4161 resources for the final (video submission) research project.
     - [02/21/22]: Added EECS 4161 helper tool to crack a Rectangular Transposition Cipher with hints on the key. A useful tool for Assignment #13!
     - [02/17/22]: Added EECS 4161 helper tool to crack Vigenere ciphers with a very limited ciphertext quantity. A useful tool for Assignment #12! 
