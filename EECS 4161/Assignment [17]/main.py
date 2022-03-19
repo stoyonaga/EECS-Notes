@@ -19,11 +19,11 @@ def vig_key_from_integer(b):
 
 
 # Givens
-prime = 98342967861236119818621441897795918589514011350299
-primitive_root = 75991699467605793428239719497348878179115731651277
-zabrocki_public_key = 77927873097883682289174534212022590683033519171186
-my_secret_key = 68988219779411500
-ciphertext = "KRNUGLPYSFIOLUKHDGQHQEXOCRSPMQV"
+prime = 
+primitive_root = 
+zabrocki_public_key = 
+my_secret_key = 
+ciphertext = 
 
 # Required Calculations
 
