@@ -26,6 +26,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 12 (Added a Helper to Complete the Vigenere Breaking Assignment (Credit to Professor Zabrocki!))
     - Assignment 13 (Added a Helper to Complete the Rectangular Transposition Encrypted File Assignment)
     - Assignment 17 (Added a Helper to Complete the Diffie-Helman Key Exchange Assignment (Credit to Professor Zabrocki!))
+    - Assignment 18 (Added a Helper to Complete the ElGamal Public Key System Assignment (Credit to Professor Zabrocki!))
     - Research Project (Added Proposal and Presentation Slide(s))
 
 Additionally, you can find some of my presentation slides here!
@@ -41,6 +42,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [03/24/22]: Added EECS 4161 helper tool to thus solve Assignment 18: ElGamal public Key System Assignment
     - [03/19/22]: Added EECS 4161 helper tool to thus solve Assignment 17: Diffie-Helman Key Exchange
     - [03/17/22]: Added fixes to the EECS 4161 Final Presentation Slide Set. [Recording of Presentation is available]
     - [03/05/22]: Added EECS 4161 resources for the final (video submission) research project.
