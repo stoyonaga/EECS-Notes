@@ -8,9 +8,9 @@ def numb_to_vig_key_nonrec(b):
 def vig_key_from_integer(b):
     return "".join([chr(65+i) for i in numb_to_vig_key_nonrec(b)])
 
-p = 31717843147900517419438523372790768624163090257803
-a = 14506158823669737196189370071876377865698184545702
-my_secret = 578620790266212578520433282808878287122707758767
+p = 
+a = 
+my_secret = 
 
 # My Public Key
 beta = power_mod(a, my_secret, p)
