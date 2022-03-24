@@ -4,4 +4,4 @@ The assignment can be completed by following the steps:
 2. Run the program using the [Sage Cell Server](https://sagecell.sagemath.org/) introduced in the previous classes.
 
 
-(Credit to Professor Zabrocki for providing lines 2 - 19 for the helper tool!!)
+(Credit to Professor Zabrocki for giving us the base/start-kit program!!)
