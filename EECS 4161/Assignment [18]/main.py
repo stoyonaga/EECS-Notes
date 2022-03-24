@@ -1,3 +1,7 @@
+"""
+Assignment 18: ElGamal Public Key System Solution
+Credit to Professor Zabrocki for the main implementation of this program.
+"""
 def numb_to_vig_key_nonrec(b):
     k = floor(log(int(b))/log(26)) # number of digits of b mod 26
     return [int(mod(floor(int(b)/26^(k-i)),26)) for i in range(k+1)]
