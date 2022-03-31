@@ -28,6 +28,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 17 (Added a Helper to Complete the Diffie-Helman Key Exchange Assignment (Credit to Professor Zabrocki!))
     - Assignment 18 (Added a Helper to Complete the ElGamal Public Key System Assignment (Credit to Professor Zabrocki!))
     - Assignment 19 (Added a Helper to Complete the Elliptic curve ElGamal Assignment (Credit to Professor Zabrocki!))
+    - Assignment 20 (Added a Helper to Complete the RSA Assignment (Credit to Professor Zabrocki!))
     - Research Project (Added Proposal and Presentation Slide(s))
 
 Additionally, you can find some of my presentation slides here!
@@ -43,6 +44,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [03/31:22]: Added EECS 4161 helper tool to thus solve Assignment 20: RSA Solver
     - [03/30/22]: Added EECS 4161 helper tool to thus solve Assignment 19: Elliptic curve ElGamal Submission
     - [03/24/22]: Added EECS 4161 helper tool to thus solve Assignment 18: ElGamal public Key System Assignment
     - [03/19/22]: Added EECS 4161 helper tool to thus solve Assignment 17: Diffie-Helman Key Exchange
