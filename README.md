@@ -10,7 +10,8 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Mod 1 Python (Helper) Script
     - Individual Peer Feedback (From Mod 5 Team Assessment) 
 4. EECS 3221
-    - Application of Lecture #5 Contents 
+    - Accelerated Exam Recitation Notes (Definitions and Formula Reference Manual) (TBA)
+    - Implementations of Some Disk Scheduling Algorithms
 5. EECS 4161
     - Assignment 1 (Caesar Cipher Helper Script, Frequency Analysis Tool(s)) 
     - Assignment 2 (Vigenere Cipher Helper Script, Encryption, Decryption Tool(s))
@@ -44,7 +45,8 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
-    - [03/31:22]: Added EECS 4161 helper tool to thus solve Assignment 20: RSA Solver
+    - [04/17/22]: Added EECS 3221 Implementations of Disk Scheduling Algorithms (Homework Practice)
+    - [03/31/22]: Added EECS 4161 helper tool to thus solve Assignment 20: RSA Solver
     - [03/30/22]: Added EECS 4161 helper tool to thus solve Assignment 19: Elliptic curve ElGamal Submission
     - [03/24/22]: Added EECS 4161 helper tool to thus solve Assignment 18: ElGamal public Key System Assignment
     - [03/19/22]: Added EECS 4161 helper tool to thus solve Assignment 17: Diffie-Helman Key Exchange
