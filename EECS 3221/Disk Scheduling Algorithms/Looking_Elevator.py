@@ -14,9 +14,11 @@ def elevator(head: int, queue: list, control: str) -> list:
 
     seg1 = []
     seg2 = []
+
+    start = current.index(head)
+    current.remove(head)
+
     if control == "UP":
-        start = current.index(head)
-        current.remove(head)
         for i in range(0, len(current)):
             if i < len(current):
                 if start + i < len(current):
@@ -26,10 +28,6 @@ def elevator(head: int, queue: list, control: str) -> list:
         seg2.reverse()
         return seg1 + seg2
     if control == "DOWN":
-        seg1 = []
-        seg2 = []
-        start = current.index(head)
-        current.remove(head)
         for i in range(0, start):
             seg1.append(current[i])
         for i in range(start, len(current)):
