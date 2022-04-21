@@ -30,7 +30,7 @@ class Solution:
 
 
 class TestRecitation(unittest.TestCase):
-    def test_first_fit_recitation(self):
+    def test_best_fit_recitation(self):
         input_1 = [10, 4, 20, 18, 7, 9, 12, 15]
         sol = best_fit(12, input_1)
         expected = [10, 4, 20, 18, 7, 9, 15]
