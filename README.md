@@ -46,6 +46,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [04/21/22]: Added EECS 3221 Implementations of Memory Allocation Algorithms (Homework Practice)
     - [04/21/22]: Added EECS 322 Implementations of Page Replacement Algorithms (Homework Practice)
     - [04/17/22]: Added EECS 3221 Implementations of Disk Scheduling Algorithms (Homework Practice)
     - [03/31/22]: Added EECS 4161 helper tool to thus solve Assignment 20: RSA Solver
