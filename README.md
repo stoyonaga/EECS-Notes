@@ -12,6 +12,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
 4. EECS 3221
     - Accelerated Exam Recitation Notes (Definitions and Formula Reference Manual) (TBA)
     - Implementations of Some Disk Scheduling Algorithms
+    - Implementations of Some Page Replacement Algorithms
 5. EECS 4161
     - Assignment 1 (Caesar Cipher Helper Script, Frequency Analysis Tool(s)) 
     - Assignment 2 (Vigenere Cipher Helper Script, Encryption, Decryption Tool(s))
