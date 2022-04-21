@@ -6,7 +6,7 @@ import unittest
 """
 
 
-def best_fit(process: int, hole_queue: list) -> list:
+def worse_fit(process: int, hole_queue: list) -> list:
     hole = {}
     for i in range(0, len(hole_queue)):
         if hole_queue[i] >= process:
@@ -32,14 +32,14 @@ class Solution:
 class TestRecitation(unittest.TestCase):
     def test_worse_fit_recitation(self):
         input_1 = [10, 4, 20, 18, 7, 9, 12, 15]
-        sol = best_fit(12, input_1)
+        sol = worse_fit(12, input_1)
         expected = [10, 4, 8, 18, 7, 9, 12, 15]
         self.assertEqual(sol, expected)
 
-        sol = best_fit(10, input_1)
+        sol = worse_fit(10, input_1)
         expected = [10, 4, 8, 8, 7, 9, 12, 15]
         self.assertEqual(sol, expected)
 
-        sol = best_fit(9, input_1)
+        sol = worse_fit(9, input_1)
         expected = [10, 4, 8, 8, 7, 9, 12, 6]
         self.assertEqual(sol, expected)
