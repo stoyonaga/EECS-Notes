@@ -32,7 +32,12 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 19 (Added a Helper to Complete the Elliptic curve ElGamal Assignment (Credit to Professor Zabrocki!))
     - Assignment 20 (Added a Helper to Complete the RSA Assignment (Credit to Professor Zabrocki!))
     - Research Project (Added Proposal and Presentation Slide(s))
-
+6. EECS 4415
+    - TBA
+7. EECS 4411
+    - TBA
+8. EECS 4441
+    - TBA 
 Additionally, you can find some of my presentation slides here!
 
 1. Peer Helper {Hosted Workshops}
