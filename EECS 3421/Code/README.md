@@ -1,13 +1,13 @@
 # Configuration
 
-The following SQL scripts were designed to be run using Postgresql. 
+The following SQL scripts were designed to be run using PostgreSQL. 
 If you are a York University (EECS) student, then you can test these by using the following avenues:
 - ssh into the red server, and run the scripts on your psql account. This can be done using your terminal, or through VSCode with the Microsoft Remote - SSH extension.
-- Install Postgresql onto your computer, and run the scripts locally. Personally, I found it easier on my end to test scripts using WSL2.
+- Install PostgreSQL onto your computer, and run the scripts locally. Personally, I found it easier on my end to test scripts using WSL2.
 
-# Installing Postgresql
+# Installing PostgreSQL
 
-This section will mainly focus on installing Postgresql through WSL2. I found this avenue to be the easiest to tinker with. 
+This section will mainly focus on installing PostgreSQL through WSL2. I found this avenue to be the easiest to tinker with. 
 Do note that as of this moment, the script has been tested on Ubuntu 20.04.4 LTS. 
 
 1. Ensure that you have WSL2 installed on your computer 
