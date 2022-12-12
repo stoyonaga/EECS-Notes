@@ -37,6 +37,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Textbook / Slides Reference: [Mining of Massive Datasets](http://www.mmds.org/) 
 7. EECS 4441
     -  Accelerated Midterm / Exam Review Notes
+    -  Final Project (Research Paper, Presentation Slides) [TBA]
 8. EECS 4443
     - TBA
 10. EECS 4115
