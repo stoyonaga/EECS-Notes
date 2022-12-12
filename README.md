@@ -10,7 +10,7 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Mod 1 Python (Helper) Script
     - Individual Peer Feedback (From Mod 5 Team Assessment) 
 4. EECS 3221
-    - Accelerated Exam Recitation Notes (Definitions and Formula Reference Manual) (TBA)
+    - Accelerated Exam Recitation Notes (Definitions and Formula Reference Manual) 
     - Implementations of Some Disk Scheduling Algorithms
     - Implementations of Some Page Replacement Algorithms
 5. EECS 4161
@@ -33,11 +33,16 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 20 (Added a Helper to Complete the RSA Assignment (Credit to Professor Zabrocki!))
     - Research Project (Added Proposal and Presentation Slide(s))
 6. EECS 4415
-    - TBA 
-7. EECS 4411
+    - Written and typed notes are available upon request. The topics covered include Frequent Itemset Mining, Association Rules, Similar Items, Clustering, Link Analysis (PageRank), Data Streams, MapReduce, and Machine Learning.
+    - Textbook / Slides Reference: [Mining of Massive Datasets](http://www.mmds.org/) 
+7. EECS 4441
+    -  Accelerated Midterm / Exam Review Notes
+8. EECS 4443
     - TBA
-8. EECS 4441
-    - TBA 
+10. EECS 4115
+    - TBA
+12. EECS 4101
+    - TBA
 
 Additionally, you can find some of my presentation slides here!
 
@@ -47,11 +52,12 @@ Additionally, you can find some of my presentation slides here!
 # Requests
 If you would like to access the comprehensive recitation notes, or request repositories for a particular course, please contact me via direct messaging.
 
-
 # Contributing 
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [12/12/22]: Added EECS 4441 Midterm / Exam Review Notes
+    - [12/12/22]: Updated Section for EECS 4415 
     - [04/21/22]: Added EECS 3221 Implementations of Memory Allocation Algorithms (Homework Practice)
     - [04/21/22]: Added EECS 322 Implementations of Page Replacement Algorithms (Homework Practice)
     - [04/17/22]: Added EECS 3221 Implementations of Disk Scheduling Algorithms (Homework Practice)
