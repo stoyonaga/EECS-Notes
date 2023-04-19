@@ -1,19 +1,19 @@
 # General Introduction
 Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my notes and scripts (code) that pertain to the list of courses. 
 
-1. EECS 3101
+1. <b><ins>EECS 3101</ins></b>
     - Lecture Notes + Recitation Solutions
-2. EECS 3421
+2. <b><ins>EECS 3421</ins></b>
     - Lecture Notes + Recitation Solutions 
     - PostgreSQL Implementation for the Recitation Assignment
-3. EECS 3461
+3. <b><ins>EECS 3461</ins></b>
     - Mod 1 Python (Helper) Script
     - Individual Peer Feedback (From Mod 5 Team Assessment) 
-4. EECS 3221
+4. <b><ins>EECS 3221</ins></b>
     - Accelerated Exam Recitation Notes (Definitions and Formula Reference Manual) 
     - Implementations of Some Disk Scheduling Algorithms
     - Implementations of Some Page Replacement Algorithms
-5. EECS 4161
+5. <b><ins>EECS 4161</ins></b>
     - Assignment 1 (Caesar Cipher Helper Script, Frequency Analysis Tool(s)) 
     - Assignment 2 (Vigenere Cipher Helper Script, Encryption, Decryption Tool(s))
     - Assignment 3 (Rectangular Transposition Helper Script, Encryption, Decryption Tool(s))
@@ -32,18 +32,18 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - Assignment 19 (Added a Helper to Complete the Elliptic curve ElGamal Assignment (Credit to Professor Zabrocki!))
     - Assignment 20 (Added a Helper to Complete the RSA Assignment (Credit to Professor Zabrocki!))
     - Research Project (Added Proposal and Presentation Slide(s))
-6. EECS 4415
+6. <b><ins>EECS 4415</ins></b>
     - Written and typed notes are available upon request. The topics covered include Frequent Itemset Mining, Association Rules, Similar Items, Clustering, Link Analysis (PageRank), Data Streams, MapReduce, and Machine Learning.
     - Textbook / Slides Reference: [Mining of Massive Datasets](http://www.mmds.org/) 
-7. EECS 4441
+7. <b><ins>EECS 4441</ins></b>
     -  Accelerated Midterm / Exam Review Notes
-    -  Final Project (Research Paper, Presentation Slides) [TBA]
-8. EECS 4443
-    - TBA
-10. EECS 4115
-    - TBA
-12. EECS 4101
-    - TBA
+    -  <b><ins>Final Project:</ins></b> Digital Eye Strain: Evaluating Preventative Software Measures  
+8. <b><ins>EECS 4443</ins></b>
+    - Exam Review Notes
+    - General Advice for the Course
+    - <b><ins>Final Project:</ins></b> Comparison of Text Input on Mobile Devices: Touch vs. Voice
+10. <b><ins>EECS 4115</ins></b>
+    - Exam Review Notes
 
 Additionally, you can find some of my presentation slides here!
 
@@ -57,6 +57,8 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [04/19/23]: Added EECS 4443 Exam Review Notes
+    - [04/19/23]: Added EECS 4115 Exam Review Notes
     - [12/12/22]: Added EECS 4441 Midterm / Exam Review Notes
     - [12/12/22]: Updated Section for EECS 4415 
     - [04/21/22]: Added EECS 3221 Implementations of Memory Allocation Algorithms (Homework Practice)
