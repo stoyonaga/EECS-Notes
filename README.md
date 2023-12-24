@@ -44,6 +44,8 @@ Hello, and welcome to my EECS-Notes Repository! Here, you will find some of my n
     - <b><ins>Final Project:</ins></b> Comparison of Text Input on Mobile Devices: Touch vs. Voice
 10. <b><ins>EECS 4115</ins></b>
     - Exam Review Notes
+11. <b><ins>EECS 4404/5327</ins></b>
+    - Exam Review
 
 Additionally, you can find some of my presentation slides here!
 
@@ -57,6 +59,7 @@ If you would like to access the comprehensive recitation notes, or request repos
 If you would like to contribute your own course materials, or to improve my scripts, please create a pull request. Thank you!
 
 # Recent Updates
+    - [12/24/23]: Added EECS 4404/5327 Exam Review Notes
     - [04/19/23]: Added EECS 4443 Exam Review Notes
     - [04/19/23]: Added EECS 4115 Exam Review Notes
     - [12/12/22]: Added EECS 4441 Midterm / Exam Review Notes
